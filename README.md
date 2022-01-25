@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hi! I'm Ji-Xinyou, a junior student from Department of **Computer Science@SJTU(Shanghai Jiao Tong Univ)**.
-- 🌱 I’m currently learning Computer Science, especially interested in subjects with high-level abstractions (O/S, Distributed O/S, DB system, Networking protocols etc.). I've also taken some DL courses, such as CS231n@Stanford, so there may will be some fun repos from me relavant to DL.
+- 🌱 I’m currently a student majoring Computer Science, especially interested in subjects with high-level abstractions (O/S, Distributed O/S, DB system, Networking protocols etc.). I've also taken some DL courses, such as CS231n@Stanford, so there may will be some fun repos from me relavant to DL.
 - 👯 I’m looking to collaborate on everything! Please feel free to contact me if interested.
 - 📫 How to reach me: jerryji0414@outlook.com
 - 😄 Pronouns: He/Him
