@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! I'am Ji-Xinyou, a junior student from Department of **Computer Science@SJTU(Shanghai Jiao Tong Univ)**.
+- 🌱 I’m currently learning Computer Science, especially interested in subjects with high-level abstractions (O/S, Distributed O/S, DB system etc.).
+- 👯 I’m looking to collaborate on everything! Please feel free to contact me if interested.
+- 📫 How to reach me: jerryji0414@outlook.com
+- 😄 Pronouns: He/Him
+
