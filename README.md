@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=Ji—Xinyou&color=green)
 
-Hi! I'm Ji-Xinyou, a junior student from Department of **Computer Science@SJTU(Shanghai Jiao Tong Univ)**.
-- 🌱 I’m currently a student majoring Computer Science, especially interested in subjects with high-level abstractions (O/S, Networking protocols etc.). I've also taken some DL courses, such as CS231n@Stanford, so there may will be some fun repos from me relavant to DL.
-- 👯 I’m looking to collaborate on everything! Please feel free to contact me if interested.
+Hi! I'm Ji-Xinyou, a junior student from CS@SJTU.
+
 - 📫 How to reach me: jerryji0414@outlook.com
 - 💬 My blog website: [jerryji.site](http://jerryji.site)
-- 😄 Pronouns: He/Him
 
+[![Ji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-Xinyou)](https://github.com/anuraghazra/github-readme-stats)
