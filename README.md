@@ -19,4 +19,6 @@ Hi! I'm Ji-Xinyou, a junior student from CS@SJTU.
 - 📫 How to reach me: jerryji0414@outlook.com
 - 💬 My blog website: [jerryji.site](http://jerryji.site)
 
-[![Ji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-Xinyou)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-Xinyou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-Xinyou)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-Xinyou&layout=compact&hide=html,javascript,CSS)](https://github.com/anuraghazra/github-readme-stats)
