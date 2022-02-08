@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=Ji—Xinyou&color=green)
-
 Hi! I'm Ji-Xinyou, a junior student from CS@SJTU.
 
 - 📫 How to reach me: jerryji0414@outlook.com
