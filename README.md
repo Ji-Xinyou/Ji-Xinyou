@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 Hi! I'm Ji-Xinyou, a junior student majoring CS@SJTU.
 
-
-<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-Xinyou&layout=compact&hide=scss,hcl,Tcl,html,css,javascript&langs_count=6&theme=tokyonight' width='400px'>
+- 📫 How to reach me: jerryji0414@outlook.com
+- 💬 My blog website: [jerryji.site](http://jerryji.site)
 
 [![Ji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-Xinyou)](https://github.com/anuraghazra/github-readme-stats)
 
-
-- 📫 How to reach me: jerryji0414@outlook.com
-- 💬 My blog website: [jerryji.site](http://jerryji.site)
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Ji-Xinyou&layout=compact&hide=scss,hcl,Tcl,html,css,javascript&langs_count=6&theme=tokyonight' width='400px'>
