@@ -19,4 +19,4 @@ Hi! I'm Ji-Xinyou, a junior student majoring CS@SJTU.
 - 📫 How to reach me: jerryji0414 [at] outlook [dot] com
 - 💬 My blog website: [jerryji.site](http://jerryji.site)
 
-[![Ji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ji-Xinyou)](https://github.com/anuraghazra/github-readme-stats)
+[![Ji's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyJi)](https://github.com/anuraghazra/github-readme-stats)
